@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @nextae
-- 👀 I’m interested in python programming, technology, video games
+- 👋 Hi, I’m nextae
+- 👀 I’m interested in python programming, technology and video games
 - 🌱 I’m currently studying in AGH University of Science and Technology
