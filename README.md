@@ -1,1 +1,1 @@
-Computer Science student, python enthusiast
+Computer Science student, Python enthusiast
